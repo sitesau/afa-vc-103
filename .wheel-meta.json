@@ -1,0 +1,22 @@
+{
+  "wheel_id": 88,
+  "slug": "afa-vc-103",
+  "project": "asset-finance-australia-buyer-tips-av-103",
+  "parent_t1_ref": "afa-vc-001",
+  "node_role": "feeder",
+  "money_target": "loanphone.com.au",
+  "primary_kw": "asset finance australia buyer tips",
+  "intended_url": "https://asset-finance-australia-buyer-tips-av-103.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://asset-finance-australia-av-150.pages.dev/",
+      "anchor": "asset finance australia",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://asset-finance-australia-av-150.pages.dev/",
+      "anchor": "asset finance australia",
+      "rel": "follow"
+    }
+  ]
+}
