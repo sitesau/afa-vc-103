@@ -6,7 +6,7 @@
   "node_role": "feeder",
   "money_target": "loanphone.com.au",
   "primary_kw": "asset finance australia buyer tips",
-  "intended_url": "https://asset-finance-australia-buyer-tips-av-103.surge.sh/",
+  "intended_url": "http://asset-finance-australia-buyer-tips-av-103.s3-website-ap-southeast-2.amazonaws.com/index.html",
   "links": [
     {
       "target_url": "https://asset-finance-australia-av-150.pages.dev/",
@@ -18,5 +18,6 @@
       "anchor": "asset finance australia",
       "rel": "follow"
     }
-  ]
+  ],
+  "structure": "wheel"
 }

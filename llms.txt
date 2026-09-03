@@ -2,5 +2,5 @@ Compare Loans FAST with No Impact
 asset finance australia buyer tips - Asset Finance Australia Buyer Tips: How to navigate equipment loans, choose structures and prepare for approval. Compare options, costs, timing and practical checks.
 
 Location: Australia
-Site: https://asset-finance-australia-buyer-tips-av-103.surge.sh/
+Site: http://asset-finance-australia-buyer-tips-av-103.s3-website-ap-southeast-2.amazonaws.com/index.html
 
