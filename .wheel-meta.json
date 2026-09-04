@@ -9,12 +9,12 @@
   "intended_url": "http://asset-finance-australia-buyer-tips-av-103.s3-website-ap-southeast-2.amazonaws.com/index.html",
   "links": [
     {
-      "target_url": "https://asset-finance-australia-av-150.pages.dev/",
+      "target_url": "https://asset-finance-australia-guide.vercel.app",
       "anchor": "asset finance australia",
       "rel": "follow"
     },
     {
-      "target_url": "https://asset-finance-australia-av-150.pages.dev/",
+      "target_url": "https://asset-finance-australia-guide.vercel.app",
       "anchor": "asset finance australia",
       "rel": "follow"
     }
